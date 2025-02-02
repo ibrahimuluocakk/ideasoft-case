@@ -37,11 +37,11 @@ Bu case study, e-ticaret sistemlerinde sıkça karşılaşılan sipariş ve indi
 
 ### Make ile Kurulum
 
--- make init
+- make init
 
 ### Manuel Kurulum
 
--- docker-compose up -d --build
+- docker-compose up -d --build
 
 ## Proje Yapısı
 
