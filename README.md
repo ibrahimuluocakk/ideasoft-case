@@ -30,8 +30,8 @@ Bu case study, e-ticaret sistemlerinde sıkça karşılaşılan sipariş ve indi
 ## Kurulum
 
 ## Projeyi klonlayın
-- git clone <repo-url>
-- cd <project-folder>
+- git clone https://github.com/ibrahimuluocakk/ideasoft-case
+- cd ideasoft-case
 - Ortam değişkenlerini ayarlayın
 - cp .env.example .env
 
