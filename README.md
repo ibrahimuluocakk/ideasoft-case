@@ -1,4 +1,4 @@
-# E-commerce Case Study
+# E-commerce Case 
 
 Bu proje, e-ticaret sisteminde sipariş ve indirim yönetimini içeren bir RESTful API uygulamasıdır.
 
