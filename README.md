@@ -16,7 +16,7 @@ Bu case study, e-ticaret sistemlerinde sıkça karşılaşılan sipariş ve indi
 ## Teknolojiler
 
 - PHP 8.2
-- Laravel 10.x
+- Laravel 11.x
 - MySQL 8.0
 - Nginx
 - Docker & Docker Compose
