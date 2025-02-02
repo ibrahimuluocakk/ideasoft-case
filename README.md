@@ -62,10 +62,10 @@ Proje kapsamında 3 farklı indirim kuralı bulunmaktadır:
 ## Veritabanı Yapısı
 
 Proje 5 ana tabloya sahiptir:
-- categories: Ürün kategorileri
-- products: Ürün bilgileri
-- orders: Sipariş başlıkları
-- order_items: Sipariş detayları
+- categories: Kategoriler
+- products: Ürünler
+- orders: Siparişler
+- order_items: Siparişlere ait ürünler
 - discount_rules: İndirim kuralları
 
 ## Geliştirme Ortamı
